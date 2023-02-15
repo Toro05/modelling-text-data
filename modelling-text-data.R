@@ -93,7 +93,6 @@ print(as.data.frame(similarities[ranking[top_bottom]], row.names = vocabulary$te
 ```
 
 
-```{r echo=FALSE, eval=FALSE, message=FALSE, warning=FALSE, results="hide", fig.show='hide'}
 # PART 2-------------------------------------------------------------------------------------------------------------
 library(plyr)
 library(syuzhet)
